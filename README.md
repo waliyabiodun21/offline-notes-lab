@@ -4,7 +4,7 @@ A beginner Progressive Web App (PWA) for creating and storing notes with offline
 
 Node.js Version
 
-Node.js: "v20"
+Node.js: "v24.20.0"
 
 ## Run Locally
 
